@@ -5,6 +5,7 @@
 // @description  complete homework automatically in www.zhihao.com!
 // @author       Merack
 // @e-mail       Merack@qq.com
+// @updateURL    https://cdn.jsdelivr.net/gh/Merack/MKScript/HelloZhiHao.user.js
 // @match        http://www.zhihao.com/jrwtest*/*.asp
 // @match        http://www.zhihao.com/jrwtest*/*.htm
 // @require      https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.slim.min.js
