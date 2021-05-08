@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         zhihaoAutoDo
+// @name         HelloZhiHao
 // @namespace    https://merack.top/
 // @version      0.1
 // @description  complete homework automatically in www.zhihao.com!
