@@ -18,6 +18,7 @@ some scripts written by Merack
 智豪哥说考试选择题在里面出, 在网站上面做太麻烦了, 所以写了个脚本爬下来方便复习
 ##### 使用说明
 ```
+pip install -r requirements.txt
 python zhihaoDump.py
 ```
 之后会在与脚本同级的目录下生成`zhihao`文件夹, 题目和答案就存在其中
