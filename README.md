@@ -12,3 +12,13 @@ some scripts written by Merack
 ##### 使用说明
 需先安装油猴脚本管理器, 参照第0点
 然后  [点我](https://cdn.jsdelivr.net/gh/Merack/MKScript/HelloZhiHao.user.js)  进行安装
+
+### 2.zhihaoDump
+爬取智豪校园网中接入网的测试题和答案  
+智豪哥说考试选择题在里面出, 在网站上面做太麻烦了, 所以写了个脚本爬下来方便复习
+##### 使用说明
+```
+python zhihaoDump.py
+```
+之后会在与脚本同级的目录下生成`zhihao`文件夹, 题目和答案就存在其中
+![zhihaodump.png](https://pic.rmb.bdstatic.com/bjh/2df6c3fdf7b274c306f892b053b2bfb6.png)
