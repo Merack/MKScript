@@ -3,7 +3,7 @@ Dump exams from www.zhihao.com
 
  @Author : Merack
  @E-Mail : merack@qq.com
- @URL : https://github.com/Merack/MKScript/zhihaoDump
+ @URL : https://github.com/Merack/MKScript/tree/main/zhihaoDump
 """
 
 import requests
@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 copyright = '''====================
 @Author : Merack
 @E-Mail : merack@qq.com
-@URL : https://github.com/Merack/MKScript/zhihaoDump
+@URL : https://github.com/Merack/MKScript/tree/main/zhihaoDump
 ====================
 '''
 
